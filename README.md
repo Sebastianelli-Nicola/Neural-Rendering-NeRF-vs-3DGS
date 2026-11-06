@@ -129,9 +129,9 @@ Evaluations were performed across **Full-Reference metrics** (PSNR $\uparrow$, S
 
 ## 360° Video Demos
 
-I render orbitali dimostrativi a $360^\circ$ ottenuti tramite 3D Gaussian Splatting (`splatfacto` a 100k iterazioni) sono disponibili nella cartella video:
-* Bauletto Nero Demo: [video/bauletto_splatfacto_100k_video.mp4](./video/bauletto_splatfacto_100k_video.mp4)
-* Poltrona in Vimini Demo: [video/poltrona_splatfacto_100k_video.mp4](./video/poltrona_splatfacto_100k_video.mp4)
+Demonstrative $360^\circ$ orbital renderings, generated using 3D Gaussian Splatting (`splatfacto` at 100k iterations), are available in the video folder:
+* Bauletto Nero (Black Bag) Demo: [video/bauletto_splatfacto_100k_video.mp4](./video/bauletto_splatfacto_100k_video.mp4)
+* Poltrona in Vimini (Wicker Armchair) Demo: [video/poltrona_splatfacto_100k_video.mp4](./video/poltrona_splatfacto_100k_video.mp4)
 
 ---
 
