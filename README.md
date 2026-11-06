@@ -13,7 +13,7 @@ Developed for the *Computer Graphics & Multimedia* Master's course at **Universi
 
 > Project Deliverables & Reports:
 > * Technical Report (PDF, Italian): [relazione_nerfstudio.pdf](./docs/relazione_nerfstudio.pdf)
-> * Presentation Slides (PDF, Italian): [Gruppo_11.pdf](./docs/presentazione_nerfstudio.pdf)
+> * Presentation Slides (PDF, Italian): [presentazione_nerfstudio.pdf](./docs/presentazione_nerfstudio.pdf)
 > * Original Group Development Repository: [fppcng/nerfstudio-project](https://github.com/fppcng/nerfstudio-project)
 
 ---
