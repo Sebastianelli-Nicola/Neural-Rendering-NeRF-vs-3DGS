@@ -4,16 +4,16 @@
 [![Method: NeRF vs 3DGS](https://img.shields.io/badge/Method-NeRF_%7C_3DGS-orange.svg)](#theoretical-foundations)
 [![Course: Computer Graphics](https://img.shields.io/badge/Course-Computer_Graphics_%26_Multimedia-003366.svg)](#authors--academic-context)
 [![Datasets: Woven Handcrafts](https://img.shields.io/badge/Domain-Woven_Crafts_(Bottega_Intreccio)-green.svg)](#experimental-benchmark--tested-artifacts)
-[![Report: PDF](https://img.shields.io/badge/Report-PDF_(ITA)-red.svg)](./relazione_nerfstudio.pdf)
-[![Slides: PDF](https://img.shields.io/badge/Slides-PDF_(ITA)-yellow.svg)](./Gruppo_11.pdf)
+[![Report: PDF](https://img.shields.io/badge/Report-PDF_(ITA)-red.svg)](./docs/relazione_nerfstudio.pdf)
+[![Slides: PDF](https://img.shields.io/badge/Slides-PDF_(ITA)-yellow.svg)](./docs/presentazione_nerfstudio.pdf)
 
 End-to-end 3D digitization and comparative benchmark evaluating **Neural Radiance Fields (NeRF)** and **3D Gaussian Splatting (3DGS)** on complex woven artisanal objects, carried out in collaboration with *Bottega Intreccio*.
 
 Developed for the *Computer Graphics & Multimedia* Master's course at **Università Politecnica delle Marche (UNIVPM)** (A.Y. 2024/2025).
 
 > Project Deliverables & Reports:
-> * Technical Report (PDF, Italian): [relazione_nerfstudio.pdf](./relazione_nerfstudio.pdf)
-> * Presentation Slides (PDF, Italian): [Gruppo_11.pdf](./Gruppo_11.pdf)
+> * Technical Report (PDF, Italian): [relazione_nerfstudio.pdf](./docs/relazione_nerfstudio.pdf)
+> * Presentation Slides (PDF, Italian): [Gruppo_11.pdf](./docs/presentazione_nerfstudio.pdf)
 > * Original Group Development Repository: [fppcng/nerfstudio-project](https://github.com/fppcng/nerfstudio-project)
 
 ---
