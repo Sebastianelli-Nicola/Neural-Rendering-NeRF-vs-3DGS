@@ -1,0 +1,19 @@
+{
+  "experiment_name": "bauletto_nero_depth_200k",
+  "method_name": "depth-nerfacto",
+  "checkpoint": "outputs/bauletto_nero_depth_200k/depth-nerfacto/2026-05-29_101318/nerfstudio_models/step-000212000.ckpt",
+  "results": {
+    "psnr": 19.149221420288086,
+    "psnr_std": 3.2470133304595947,
+    "ssim": 0.6675569415092468,
+    "ssim_std": 0.07752310484647751,
+    "lpips": 0.37789756059646606,
+    "lpips_std": 0.12014001607894897,
+    "depth_mse": 7372.72802734375,
+    "depth_mse_std": 3576.041259765625,
+    "num_rays_per_sec": 598752.625,
+    "num_rays_per_sec_std": 96557.125,
+    "fps": 0.3981618583202362,
+    "fps_std": 0.06420909613370895
+  }
+}

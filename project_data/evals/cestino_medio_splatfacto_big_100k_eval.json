@@ -1,0 +1,17 @@
+{
+  "experiment_name": "cestino_medio_splatfacto_big_100k",
+  "method_name": "splatfacto",
+  "checkpoint": "outputs/cestino_medio_splatfacto_big_100k/splatfacto/2026-06-10_193111/nerfstudio_models/step-000099999.ckpt",
+  "results": {
+    "psnr": 19.26906394958496,
+    "psnr_std": 5.013045787811279,
+    "ssim": 0.7374945878982544,
+    "ssim_std": 0.17347310483455658,
+    "lpips": 0.35215768218040466,
+    "lpips_std": 0.18460726737976074,
+    "num_rays_per_sec": 30112834.0,
+    "num_rays_per_sec_std": 10555521.0,
+    "fps": 20.05763816833496,
+    "fps_std": 7.030850410461426
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "experiment_name": "bauletto_nero_splatfacto_200k",
+  "method_name": "splatfacto",
+  "checkpoint": "outputs/bauletto_nero_splatfacto_200k/splatfacto/2026-06-08_154006/nerfstudio_models/step-000199999.ckpt",
+  "results": {
+    "psnr": 22.72658348083496,
+    "psnr_std": 3.0883123874664307,
+    "ssim": 0.8263505697250366,
+    "ssim_std": 0.053201332688331604,
+    "lpips": 0.3159518837928772,
+    "lpips_std": 0.0958942323923111,
+    "num_rays_per_sec": 54139020.0,
+    "num_rays_per_sec_std": 10591088.0,
+    "fps": 36.061065673828125,
+    "fps_std": 7.054540634155273
+  }
+}

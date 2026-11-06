@@ -1,0 +1,17 @@
+{
+  "experiment_name": "bauletto_nero_rgb_huge_100k_rays2048",
+  "method_name": "nerfacto",
+  "checkpoint": "outputs/bauletto_nero_rgb_huge_100k_rays2048/nerfacto/2026-05-28_162017/nerfstudio_models/step-000099999.ckpt",
+  "results": {
+    "psnr": 17.983318328857422,
+    "psnr_std": 2.966804265975952,
+    "ssim": 0.6658483743667603,
+    "ssim_std": 0.07770861685276031,
+    "lpips": 0.39184069633483887,
+    "lpips_std": 0.12177889049053192,
+    "num_rays_per_sec": 213325.375,
+    "num_rays_per_sec_std": 27869.482421875,
+    "fps": 0.14185830950737,
+    "fps_std": 0.018532803282141685
+  }
+}

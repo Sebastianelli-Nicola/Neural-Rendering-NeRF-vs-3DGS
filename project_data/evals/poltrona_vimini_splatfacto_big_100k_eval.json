@@ -1,0 +1,17 @@
+{
+  "experiment_name": "poltrona_vimini_splatfacto_big_100k",
+  "method_name": "splatfacto",
+  "checkpoint": "outputs/poltrona_vimini_splatfacto_big_100k/splatfacto/2026-06-11_122828/nerfstudio_models/step-000099999.ckpt",
+  "results": {
+    "psnr": 20.349416732788086,
+    "psnr_std": 2.36326003074646,
+    "ssim": 0.7046465873718262,
+    "ssim_std": 0.09692888706922531,
+    "lpips": 0.3411223888397217,
+    "lpips_std": 0.07671280950307846,
+    "num_rays_per_sec": 37851684.0,
+    "num_rays_per_sec_std": 7053398.0,
+    "fps": 25.212352752685547,
+    "fps_std": 4.698146343231201
+  }
+}

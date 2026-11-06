@@ -1,0 +1,17 @@
+{
+  "experiment_name": "cestino_medio_nerfacto_100k",
+  "method_name": "nerfacto",
+  "checkpoint": "outputs/cestino_medio_nerfacto_100k/nerfacto/2026-06-12_135305/nerfstudio_models/step-000099999.ckpt",
+  "results": {
+    "psnr": 16.20774269104004,
+    "psnr_std": 3.0977864265441895,
+    "ssim": 0.5373803973197937,
+    "ssim_std": 0.13733887672424316,
+    "lpips": 0.41213369369506836,
+    "lpips_std": 0.14752089977264404,
+    "num_rays_per_sec": 592318.3125,
+    "num_rays_per_sec_std": 131770.75,
+    "fps": 0.3938831388950348,
+    "fps_std": 0.0876256451010704
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "experiment_name": "poltrona_vimini_nerfacto_subset_300_100k",
+  "method_name": "nerfacto",
+  "checkpoint": "outputs/poltrona_vimini_nerfacto_subset_300_100k/nerfacto/2026-06-12_181604/nerfstudio_models/step-000099999.ckpt",
+  "results": {
+    "psnr": 16.37203598022461,
+    "psnr_std": 1.7484095096588135,
+    "ssim": 0.5492684245109558,
+    "ssim_std": 0.07748712599277496,
+    "lpips": 0.4746167063713074,
+    "lpips_std": 0.06896195560693741,
+    "num_rays_per_sec": 583616.75,
+    "num_rays_per_sec_std": 103072.21875,
+    "fps": 0.38809674978256226,
+    "fps_std": 0.06854154169559479
+  }
+}
