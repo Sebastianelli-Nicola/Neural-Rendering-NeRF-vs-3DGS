@@ -14,6 +14,7 @@ Developed for the *Computer Graphics & Multimedia* Master's course at **Universi
 > Project Deliverables & Reports:
 > * Technical Report (PDF, Italian): [relazione_nerfstudio.pdf](./docs/relazione_nerfstudio.pdf)
 > * Presentation Slides (PDF, Italian): [presentazione_nerfstudio.pdf](./docs/presentazione_nerfstudio.pdf)
+> * 360° Orbital Video Renders: [video/](./video/)
 > * Original Group Development Repository: [fppcng/nerfstudio-project](https://github.com/fppcng/nerfstudio-project)
 
 ---
@@ -126,6 +127,14 @@ Evaluations were performed across **Full-Reference metrics** (PSNR $\uparrow$, S
 
 ---
 
+## 360° Video Demos
+
+I render orbitali dimostrativi a $360^\circ$ ottenuti tramite 3D Gaussian Splatting (`splatfacto` a 100k iterazioni) sono disponibili nella cartella video:
+* Bauletto Nero Demo: [video/bauletto_splatfacto_100k_video.mp4](./video/bauletto_splatfacto_100k_video.mp4)
+* Poltrona in Vimini Demo: [video/poltrona_splatfacto_100k_video.mp4](./video/poltrona_splatfacto_100k_video.mp4)
+
+---
+
 ## Key Findings & Critical Analysis
 
 * **Rendering Efficiency:** 3D Gaussian Splatting (`splatfacto`) consistently achieved real-time throughput (~28–38 FPS), rendering orders of magnitude faster than volumetric NeRF raymarching (~0.4 FPS).
@@ -147,7 +156,7 @@ Evaluations were performed across **Full-Reference metrics** (PSNR $\uparrow$, S
 
 ## Authors & Academic Context
 
-Master's degree project for **Computer Graphics & Multimedia** (A.Y. 2024/2025) — M.Sc. in Computer and Automation Engineering at **Università Politecnica delle Marche (UNIVPM)**.
+Master's degree project for **Computer Graphics & Multimedia** (A.Y. 2025/2026) — M.Sc. in Computer and Automation Engineering at **Università Politecnica delle Marche (UNIVPM)**.
 
 * **Nicola Sebastianelli** — [GitHub](https://github.com/Sebastianelli-Nicola)
 * **Filippo Cingolani**
